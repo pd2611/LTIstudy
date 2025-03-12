@@ -2,3 +2,17 @@ make sure we have to understand basics first
 OSI model
 Topology
 Deferent ports and services
+Lets start with port number
+__ports
+ports are entry points for any service 
+to run the service it is mendetory to choose some port where services can run 
+like HTTP 80
+HTTPS 443
+FTP 21
+SSH 22
+LDAP 389
+RDP 3389
+SMTP 25
+SNMP 161, 162
+DHCP 67, 68
+DNS 53
